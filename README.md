@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://christianpure.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianpure/.github/main/assets/christianpure-logo-on-navy.png">
+      <img src="https://raw.githubusercontent.com/christianpure/.github/main/assets/christianpure-logo-light.png" alt="Christian Pure" width="240">
+    </picture>
+  </a>
+</p>
+
 # Christian Pure connector (MCP server)
 
 A free, read-only [Model Context Protocol](https://modelcontextprotocol.io/) server that lets AI assistants such as Claude and ChatGPT search [Christian Pure](https://christianpure.com/): written prayers for a need or an occasion, Bible verses gathered by subject, Bible study, the meaning of biblical names, church history and questions of faith. It needs no account and no key.
