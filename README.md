@@ -9,6 +9,8 @@
 
 # Christian Pure connector (MCP server)
 
+[![Christian Pure MCP connector](https://glama.ai/mcp/connectors/com.christianpure/connector/badges/score.svg)](https://glama.ai/mcp/connectors/com.christianpure/connector)
+
 A free, read-only [Model Context Protocol](https://modelcontextprotocol.io/) server that lets AI assistants such as Claude and ChatGPT search [Christian Pure](https://christianpure.com/): written prayers for a need or an occasion, Bible verses gathered by subject, Bible study, the meaning of biblical names, church history and questions of faith. It needs no account and no key.
 
 It is hosted, so most people only need its address:
